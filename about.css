@@ -1,0 +1,92 @@
+body {
+    background-color: #ddfff7;
+}
+
+.page1 {
+    display: flex;
+    height: 100vh;
+    background-color: #FFA69E;
+    margin: 0;
+    padding: 0;
+}
+
+#img1 {
+    height: 60%;
+    width: auto;
+    border-radius: 5px;
+    margin: 5.5rem;
+    margin-top: 7rem;
+    margin-left: 3.5rem;
+    margin-right: 3.5rem;
+}
+
+#about-us {
+    margin-left: 0rem;
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+}
+
+h1 {
+    font-size: 5rem;
+    color: #8b173b;
+}
+
+span {
+    color: #00999e;
+}
+
+.page2 {
+    color: white;
+    background-color: #ddfff7;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+}
+
+.container-blocks {
+    width: 25%;
+    margin-top: 15%;
+    margin-bottom: 15%;
+    padding: 0.75rem;
+    border-radius: 10px;
+}
+
+#problem-statement {
+    margin-left: 4.2%;
+    margin-right: 8%;
+    background-color: #00999e;
+}
+
+#problem-statement:hover {
+    background-color: #FFA69E;
+    color: #1d212f;
+    border-radius: 0;
+    border-bottom-left-radius: 15%;
+    border-top-right-radius: 15%;
+}
+
+#solution {
+    margin-right: 8%;
+    background-color: #1d212f;
+    
+}
+
+#solution:hover {
+    background-color: #FFA69E;
+    color: #1d212f;
+    border-radius: 0;
+}
+
+#mission-vision {
+    margin-right: 4.2%;
+    background-color: #8b173b;
+}
+
+#mission-vision:hover {
+    background-color: #FFA69E;
+    color: #1d212f;
+    border-radius: 0;
+    border-top-left-radius: 15%;
+    border-bottom-right-radius: 15%;
+}
